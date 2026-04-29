@@ -8,5 +8,5 @@ Un projet fascinant qui utilise les systèmes de fonctions itérées (IFS) pour 
 **Language:** Python 3
  **Library:** Turtle Graphics
 
-### 📸 Résultat
+###  Résultat
 ![Résultat de la simulation](Images/python-tree.jpg)
